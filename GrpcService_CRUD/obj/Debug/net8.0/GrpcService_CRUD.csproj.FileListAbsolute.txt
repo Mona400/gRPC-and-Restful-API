@@ -1,0 +1,7 @@
+D:\A_Old_Material\AA_OldLab_Top\Templetes\GrpcService_CRUD\GrpcService_CRUD\obj\Debug\net8.0\GrpcService_CRUD.csproj.AssemblyReference.cache
+D:\A_Old_Material\AA_OldLab_Top\Templetes\GrpcService_CRUD\GrpcService_CRUD\obj\Debug\net8.0\GrpcService_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_Old_Material\AA_OldLab_Top\Templetes\GrpcService_CRUD\GrpcService_CRUD\obj\Debug\net8.0\GrpcService_CRUD.AssemblyInfoInputs.cache
+D:\A_Old_Material\AA_OldLab_Top\Templetes\GrpcService_CRUD\GrpcService_CRUD\obj\Debug\net8.0\GrpcService_CRUD.AssemblyInfo.cs
+D:\A_Old_Material\AA_OldLab_Top\Templetes\GrpcService_CRUD\GrpcService_CRUD\obj\Debug\net8.0\GrpcService_CRUD.csproj.CoreCompileInputs.cache
+D:\A_Old_Material\AA_OldLab_Top\Templetes\GrpcService_CRUD\GrpcService_CRUD\obj\Debug\net8.0\GrpcService_CRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\A_Old_Material\AA_OldLab_Top\Templetes\GrpcService_CRUD\GrpcService_CRUD\obj\Debug\net8.0\GrpcService_CRUD.MvcApplicationPartsAssemblyInfo.cache

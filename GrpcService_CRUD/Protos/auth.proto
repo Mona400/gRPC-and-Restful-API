@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService_CRUD.Protos";
+
+import "google/protobuf/empty.proto"; // Correct import
+//import "google/api/annotations.proto";
+package auth;
+message CreateIdentityResponse
+{
+	string token=1;
+}
+service AuthProtoService{//Contract
+	rpc GenerateToken(google.protobuf.Empty) returns (CreateIdentityResponse);
+	
+
+}
